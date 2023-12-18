@@ -2,7 +2,6 @@ from copy import deepcopy
 from dataclasses import dataclass
 from enum import Enum
 from heapq import heapify, heappush, heappop
-from hmac import new
 
 AUTO_INCREMENT = 0
 
